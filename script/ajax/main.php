@@ -4,7 +4,7 @@
     $Subject = trim($_POST["Subject"]);
     $Message = trim($_POST["Message"]);
 
-    $recepient = "artempvl.ov@gmail.com";
+    $recepient = "your mail";
     $WebSiteName = "Creativia";
     $pagetitle = "Заявка с сайта \"$WebSiteName\"/n";
     $message = "Name: $Name\nEmail: $Email\nSubject: $Subject\nMessage: $Message";
